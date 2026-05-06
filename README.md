@@ -1,4 +1,4 @@
-# Awesome PII Redaction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PII Redaction
 
 > A curated list of libraries, models, datasets, and resources for detecting, redacting, and anonymizing Personally Identifiable Information (PII).
 
